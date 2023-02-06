@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+みんな、元気かな？
+
 <!--
 **suto3/suto3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
