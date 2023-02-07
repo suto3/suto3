@@ -1,6 +1,11 @@
 
 
 ![stat](https://github-readme-stats.vercel.app/api?username=suto3&show_icons=true)
+
+[![sb](https://ricapitolare.vercel.app/svg?url=https://scrapbox.io/suto3#.svg)](https://scrapbox.io/suto3)
+
+![scrapbox-pages](https://img.shields.io/badge/dynamic/json.svg?labelColor=e0e0e0&color=a0a0a0&style=for-the-badge&label=🌱suto3&suffix=+頁&query=$.count&url=https://scrapbox.io/api/pages/suto3#.svg)
+
 <!--
 ### Hi there 👋
 **suto3/suto3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
