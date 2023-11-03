@@ -8,6 +8,7 @@ Scrapbox
 
 [![sb](https://ricapitolare.vercel.app/svg?url=https://scrapbox.io/suto3#.svg)](https://scrapbox.io/suto3)
 
+[suto3](suto3の大福帳)
 <!--
 ### Hi there 👋
 **suto3/suto3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
